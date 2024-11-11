@@ -10,5 +10,5 @@ This is a Looker Studio Dashboard for visualizing key metrics related to homecar
 [View the Homecare Dashboard](https://lookerstudio.google.com/reporting/937744a9-25e2-496e-bd72-54956ab2bfbc/page/VibuD)
 
 ### Screenshots
-![Dashboard Screenshot](Homecare-Dashboard/2024-11-11 13_57_23-Settings.png)
+![Dashboard Screenshot](2024-11-11 13_57_23-Settings.png)
 
