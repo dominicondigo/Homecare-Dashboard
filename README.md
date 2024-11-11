@@ -7,7 +7,7 @@ This is a Looker Studio Dashboard for visualizing key metrics related to homecar
 - Analyze operational efficiency and trends over time.
 
 ### Access the Dashboard
-[View the Homecare Dashboard](https://lookerstudio.google.com/s/tzmBdYkloJg)
+[View the Homecare Dashboard](https://lookerstudio.google.com/reporting/937744a9-25e2-496e-bd72-54956ab2bfbc/page/VibuD)
 
 ### Screenshots
 ![Dashboard Screenshot](path/to/your/screenshot.png)
